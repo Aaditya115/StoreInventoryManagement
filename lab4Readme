@@ -1,0 +1,8 @@
+Name: Aaditya Gupta
+
+Hours to Complete Lab: 30 hours
+
+Short Description: I think this lab was pretty time consuming, but also pretty interesting.
+
+
+GDB: During debugging I had some seg faults, so I went into gdb and step through everything to find memory leaks and bugs. 
